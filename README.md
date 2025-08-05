@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Short Description (≤ 350 characters)
+## 📌 Short Description
 
 Real-time action detection using LSTM and Mediapipe pose landmarks. Trained on 8 classes with ~98% accuracy and validated using multilabel confusion matrix. Ideal for gesture and sign language recognition.
 
