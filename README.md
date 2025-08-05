@@ -20,6 +20,7 @@ This project implements a real-time action detection system using **LSTM neural 
 
 ```text
 LSTM(64) → LSTM(128) → LSTM(64) → Dense(64) → Dense(32) → Dense(8)
+```
 
 ## 🏗 Model Details
 
